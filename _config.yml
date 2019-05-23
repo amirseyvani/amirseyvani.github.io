@@ -25,9 +25,7 @@ description: MBA Student, Enthusiastic Learner
 navbar-links:
   About Me: "aboutme"
   Presentations:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Level5Leadership: "http://amirseyvani.github.io/Level5Leadership/"
   CV: "cv"
 
 # Image to show in the navigation bar - image must be a square (width = height)

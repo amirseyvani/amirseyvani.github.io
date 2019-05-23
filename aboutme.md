@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Amir Seyvani Asl
 subtitle: MBA Student
 published: true
 ---

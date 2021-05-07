@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Amir Seyvani Asl
-subtitle: MBA Student
+subtitle: Data Scientist
 published: true
 ---
 

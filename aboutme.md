@@ -5,4 +5,4 @@ subtitle: MBA Student
 published: true
 ---
 
-My name is Amir, I'm studying MBA at Allameh Tabataba'e University in Iran and I got my bachelors in Computer Science at Sharif University of Technology. I'm interested in Data Science, Machine Learning and Behavioral Finance.
+Skilled and detail-oriented Computer Science graduated from Sharif University of Technology with an MBA and +2 years professional experience. Seeks to employ top-class managerial and analytical skills. Experienced in analyzing complex data sets, producing insightful data-driven strategic recommendations.

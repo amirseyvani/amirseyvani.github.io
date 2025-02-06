@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Amir Seyvani Asl
-subtitle: Data Scientist
+subtitle: Senior Data Science Manager
 published: true
 ---
 
-Skilled and detail-oriented Computer Science graduated from Sharif University of Technology with an MBA and +2 years professional experience. Seeks to employ top-class managerial and analytical skills. Experienced in analyzing complex data sets, producing insightful data-driven strategic recommendations.
+Experienced Data Science Manager with a proven track record of driving business growth through innovative
+machine learning solutions. Led teams to build data-driven marketing strategies, resulting in a 32% increase
+in customer engagement and optimizing cross-functional collaboration, reducing deployment timelines by 50%.
+Expertise in Python, SQL, machine learning, and A/B testing with a strong focus on delivering actionable
+insights and measurable business impact
